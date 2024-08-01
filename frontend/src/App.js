@@ -13,7 +13,8 @@ import Thanks from "./components/Thanks";
 import ipConfig from "./ipConfig.json";
 
 export const config = {
-  endpoint: `http://localhost:8082/v1/`,
+  endpoint: `https://richamhshwr2-me-qkart-backend-deploy.onrender.com/v1`
+  // endpoint: `http://localhost:8082/v1/`,
   // endpoint: `http://${ipConfig.workspaceIp}:8082/v1/`,
 };
 
